@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from telegram import __version__ as lver
 from telethon import __version__ as tver
 
-from DAXXROBOT import SUPPORT_CHAT,pbot,BOT_USERNAME,OWNER_ID,BOT_NAME,START_IMG
+from DAXXROBOT import SUPPORT_CHAT, pbot,BOT_USERNAME,OWNER_ID,BOT_NAME,START_IMG
 
 PHOTO = [
     "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
